@@ -1,7 +1,4 @@
-# MDT
-# CZ
-# edited
-# Fivem
+# ESX cZ Edited by Kuba_QTR
 Fivem MDT CZ/SK Tgiann
 
     INFORMATIONS
