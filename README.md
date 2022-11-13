@@ -12,7 +12,7 @@ This MDT is edited to CZECH language
     INSTALATION
 1. Download the MDT folder
 2. Copy mdt and past to your resources folder
-3. Place on sesrver.cfg   ensure mdt
+3. Place on server.cfg   ensure mdt
 4. Go to mdt folder and set up the SQL
 
     ALL ITS DONE
